@@ -1,27 +1,26 @@
-# Resources Repository
+# Technical Resources Collection
 
-This repository contains various resources including cybersecurity reports and reference materials.
+This repository contains a collection of cybersecurity and software development resources in PDF format.
 
 ## Contents
 
-- [CrowdStrikeGlobalThreatReport2025.pdf](CrowdStrikeGlobalThreatReport2025.pdf) - CrowdStrike's analysis of global cyber threats for 2025
+### Cybersecurity Resources
+
+- [CrowdStrike Global Threat Report 2025](pdf/CrowdStrikeGlobalThreatReport2025.pdf) - Annual threat intelligence report from CrowdStrike outlining emerging cyber threats and attack vectors.
+- [Malware Reverse Engineering Handbook](pdf/Malware_Reverse_Engineering_Handbook.pdf) - Comprehensive guide for analyzing and understanding malicious software.
+
+### Development Resources
+
+- [Secure Coding Practices Whitepaper](pdf/Whitepaper_Secure%20Coding%20Practices.pdf) - Best practices for writing secure code and preventing common vulnerabilities.
 
 ## Usage
 
-This repository serves as a collection of research materials and reports for reference purposes.
-
-## Organization
-
-Files are organized in the root directory for easy access. PDF documents contain their original naming conventions for clear identification.
+These documents are provided for educational and reference purposes. Please respect the intellectual property rights of the original authors and publishers.
 
 ## Contributing
 
-To add new resources to this repository:
-
-1. Ensure the resource is appropriate to share
-2. Use clear, descriptive filenames
-3. Update this README with details about the new resource
+If you'd like to add resources to this collection, please submit a pull request with the PDF and an update to this README.
 
 ## License
 
-Please respect the original copyright and license terms of all included materials.
+Please note that each document may have its own licensing terms. This repository is only meant to organize these resources for personal use.
